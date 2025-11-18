@@ -1,0 +1,13 @@
+
+*.session
+*.session-journal
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+.venv/
+test/
